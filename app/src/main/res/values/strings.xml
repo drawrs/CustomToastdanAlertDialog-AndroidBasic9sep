@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Basic Hari Kedua</string>
+    <string name="hint_email">Masukan email</string>
+    <string name="hint_pwd">Masukan Password</string>
+    <string name="btn_login">Login</string>
+    <string name="text_daftar">Belum punya akun ?</string>
+    <string name="peringatan_kosong">peringatan</string>
+    <string name="persetujuan"><![CDATA[Syarat & Ketentuan]]></string>
+    <string name="isi_persetujuan_1"><b>a :</b>  harmony of opinion, action, or character :  concord There is widespread agreement on this issue.</string>
+    <string name="isi_persetujuan_2"><b>b :</b>  the act or fact of agreeing She nodded her head in agreement.</string>
+    <string name="isi_persetujuan_3"><b>a :</b>  an arrangement as to a course of action reached an agreement as to how to achieve their goal</string>
+    <string name="isi_persetujuan_4"><b>b :</b>  compact, treaty a trade agreement</string>
+    <string name="hint_nama">Masukan Nama Lengkap</string>
+    <string name="hint_pwd_check">Konfirmasi Password</string>
+    <string name="btn_daftar">Register</string>
+    <string name="text_login">Sudah punya akun ?</string>
+    <string name="txt_loading">Loading..</string>
+</resources>

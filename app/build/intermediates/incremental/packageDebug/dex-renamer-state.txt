@@ -1,0 +1,7 @@
+#Sun Sep 10 14:19:04 WIB 2017
+base.0=/home/khilman/Documents/MyFirstTrained/minggu-pertama/BasicHariKedua/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f01e4fa0b59072b771a7d0b4129e19b48c56c35
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/home/khilman/Documents/MyFirstTrained/minggu-pertama/BasicHariKedua/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a0f7704243b95133fb94269baed1f798179c54cc/classes.dex
+base.1=/home/khilman/Documents/MyFirstTrained/minggu-pertama/BasicHariKedua/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_a0f7704243b95133fb94269baed1f798179c54cc
+file.0=/home/khilman/Documents/MyFirstTrained/minggu-pertama/BasicHariKedua/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_4f01e4fa0b59072b771a7d0b4129e19b48c56c35/classes.dex
